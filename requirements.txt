@@ -1,11 +1,11 @@
-cat > requirements.txt <<'EOF'
-streamlit
-opencv-python-headless
-numpy
-pillow
-torch
-torchvision
-pydicom
-streamlit-image-coordinates
-simpleitk
-scikit-learn
+streamlit==1.64.0
+opencv-python-headless==5.0.0.93
+numpy==2.5.3
+pillow==12.3.0
+torch==2.14.0
+torchvision==0.29.0
+pydicom==3.0.2
+streamlit-image-coordinates==0.4.1
+SimpleITK==2.5.6
+scikit-learn==1.9.1
+pyarrow<25
