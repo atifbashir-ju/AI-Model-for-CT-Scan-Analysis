@@ -4,4 +4,4 @@ numpy
 pillow
 torch
 torchvision
-pydicomopencv-python-headless
+pydicom
