@@ -1,0 +1,43 @@
+[
+  {
+    "feedback_id": "1.3.6.1.4.1.14519.5.2.1.6279.6001.105756658031515062000744821260-16-1789798404.56129",
+    "timestamp": "2026-09-19T11:43:24.561290",
+    "patient_id": "UNKNOWN",
+    "study_uid": "1.3.6.1.4.1.14519.5.2.1.6279.6001.105756658031515062000744821260",
+    "slice_index": 16,
+    "ai_prediction": "nodule",
+    "ai_confidence": 1.0,
+    "model_version": "v1",
+    "radiologist_decision": "Accept",
+    "radiologist_location": null,
+    "radiologist_note": null,
+    "disagreement_detected": false,
+    "eligible_for_training": false,
+    "used_in_training": false
+  },
+  {
+    "feedback_id": "1.3.6.1.4.1.44316.6.102.1.20250704114423696.61158672119535771932-52-1790416137.520077",
+    "timestamp": "2026-09-26T15:18:57.520077",
+    "patient_id": "0",
+    "study_uid": "1.3.6.1.4.1.44316.6.102.1.20250704114423696.61158672119535771932",
+    "slice_index": 52,
+    "ai_prediction": "normal",
+    "ai_confidence": null,
+    "model_version": "v1",
+    "radiologist_decision": "Accept",
+    "radiologist_location": [
+      [
+        251,
+        344
+      ],
+      [
+        52,
+        195
+      ]
+    ],
+    "radiologist_note": "kegbyrcaebtgeb",
+    "disagreement_detected": false,
+    "eligible_for_training": false,
+    "used_in_training": false
+  }
+]

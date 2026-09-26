@@ -1,0 +1,17 @@
+{
+  "version": "v1",
+  "created_at": "2026-09-01T13:08:25.546674",
+  "training_dataset": "LUNA16 subset0-4",
+  "total_scans_used": 391,
+  "total_training_samples": 851,
+  "total_test_samples": 213,
+  "test_accuracy": 94.84,
+  "correctly_identified_nodules": 115,
+  "correctly_identified_normal": 87,
+  "false_positives": 7,
+  "false_negatives": 4,
+  "architecture": "SimpleNoduleClassifier (3D CNN)",
+  "patch_size": 32,
+  "epochs_trained": 30,
+  "status": "active"
+}
