@@ -1,3 +1,4 @@
+cat > requirements.txt <<'EOF'
 streamlit
 opencv-python-headless
 numpy
@@ -6,5 +7,5 @@ torch
 torchvision
 pydicom
 streamlit-image-coordinates
-SimpleITK
+simpleitk
 scikit-learn
