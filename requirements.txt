@@ -6,3 +6,4 @@ torch
 torchvision
 pydicom
 streamlit-image-coordinates
+SimpleITK
