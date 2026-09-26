@@ -7,3 +7,4 @@ torchvision
 pydicom
 streamlit-image-coordinates
 SimpleITK
+scikit-learn
